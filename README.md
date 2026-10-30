@@ -1,9 +1,9 @@
 # Playwright Flipkart Automation Framework
 
-A beginner-friendly UI automation starter built with Playwright, TypeScript, Cucumber, Page Object Model, reusable UI actions, and Excel-driven test data.
+A beginner-friendly UI automation starter built with **Playwright, TypeScript, Cucumber, ExcelJS and Page Object Model**.
 
-## Project structure
+The complete source package is in [flipkart_framework_build_v1](flipkart_framework_build_v1/README.md).
 
-The source package is organized under `flipkart_framework_build_v1/`. See its README and guides for setup, architecture, execution, parallel runs, and troubleshooting.
+Features include static Gherkin scenarios, runtime Excel lookup by TCID, reusable UIActions, screenshot attachments, scenario-level Cucumber parallelism, and automatic JSON/HTML reporting.
 
-> This repository contains a starter implementation. Run the setup and tests in your own environment and validate selectors against the current Flipkart UI before relying on it.
+> This starter has not been executed against your local Chrome/Flipkart session. Validate selectors and expected results in your environment before relying on it.
